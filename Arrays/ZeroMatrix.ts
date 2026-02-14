@@ -1,5 +1,3 @@
-//
-
 function ZeroMatixValues(matrix: number[][], size: number): number[][] {
   const indices = getZeroIndicesFromMatrix(matrix);
   let updatedMatrix = [...matrix];

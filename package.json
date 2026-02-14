@@ -1,0 +1,25 @@
+{
+  "name": "ds-algo-ques",
+  "version": "1.0.0",
+  "main": "generate_token.js",
+  "scripts": {
+    "start": "node generate_token.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjaliahlawat/ds-algo-ques.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjaliahlawat/ds-algo-ques/issues"
+  },
+  "homepage": "https://github.com/anjaliahlawat/ds-algo-ques#readme",
+  "description": "",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.3",
+    "uuid": "^13.0.0"
+  }
+}
